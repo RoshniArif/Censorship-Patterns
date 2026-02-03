@@ -6,6 +6,8 @@ This project analyzes historical and contemporary patterns in literary censorshi
 
 The goal was not to catalog banned books exhaustively, but to construct a defensible dataset suitable for statistical analysis, cross-regional comparison, and hypothesis testing.
 
+
+
 ---
 
 ## Data & Methods
@@ -51,3 +53,11 @@ This project demonstrates end-to-end research capability: data construction, val
 
 **Skills demonstrated:**  
 Data curation • statistical analysis • research design • validation pipelines • data storytelling • policy-relevant insight
+
+---
+Visuals: 
+
+<img width="628" height="470" alt="image" src="https://github.com/user-attachments/assets/c811c41b-5e62-4601-83bf-f23a00c8b16f" />
+
+
+Image 1: The primary reasons for literary censorship shift over time, from religious and moral objections in earlier periods to sexuality-, race-, and violence-related concerns in recent decades.
